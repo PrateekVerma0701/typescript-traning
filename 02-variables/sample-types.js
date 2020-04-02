@@ -5,3 +5,5 @@ var lastName = 'Kumar';
 console.log(found);
 console.log("The grade is " + grade);
 console.log("Hi  " + firstName + " " + lastName);
+//using template string
+console.log("Hello " + lastName + ", " + firstName);
