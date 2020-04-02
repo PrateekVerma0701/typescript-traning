@@ -9,7 +9,7 @@ class Customer {
     }
 }
 
-// create an istance
+// create an instance
 let myCustomer = new Customer("Prateek", "Verma")
 
 console.log("First Name : " + myCustomer.firstName);
